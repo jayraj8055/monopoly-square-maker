@@ -8,7 +8,7 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    --background: 44 20% 94%;
     --foreground: 222.2 84% 4.9%;
 
     --card: 0 0% 100%;
@@ -35,6 +35,24 @@ All colors MUST be HSL.
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
     --ring: 222.2 84% 4.9%;
+
+    /* Monopoly Board Colors */
+    --board-brown: 25 55% 35%;
+    --board-light-blue: 195 100% 75%;
+    --board-pink: 320 60% 75%;
+    --board-orange: 30 100% 65%;
+    --board-red: 0 85% 60%;
+    --board-yellow: 54 100% 70%;
+    --board-green: 120 60% 50%;
+    --board-dark-blue: 230 80% 50%;
+    --board-utility: 60 5% 85%;
+    --board-railroad: 0 0% 20%;
+    --board-special: 280 60% 70%;
+    
+    /* Board styling */
+    --board-square: 0 0% 98%;
+    --board-square-border: 0 0% 15%;
+    --board-center: 44 25% 88%;
 
     --radius: 0.5rem;
 
